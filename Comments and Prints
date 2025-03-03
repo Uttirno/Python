@@ -1,0 +1,7 @@
+# make variables
+a = 1
+b = a+3
+
+print("This is a string")
+print(1)
+print(a+b)
